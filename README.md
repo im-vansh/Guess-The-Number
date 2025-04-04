@@ -1,6 +1,6 @@
 # Guess My Number - Single Player JavaScript Game
 
-Welcome to "Guess My Number," a fun and challenging single-player game built with Vanilla JavaScript. In this game, you'll be trying to guess a randomly generated number within a specified range.
+Welcome to "Guess My Number," a fun and challenging single-player game built with JavaScript. In this game, you'll be trying to guess a randomly generated number within a specified range.
 
 ## Getting Started
 
@@ -30,7 +30,7 @@ Follow these steps to set up and run the game locally in VSCode:
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ## Contributing
 
